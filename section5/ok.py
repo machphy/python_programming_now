@@ -15,8 +15,8 @@ if a>0:
 else:
     print('negative')
 # What is the difference between the two snippets?
-a=1
-b=2
+a=15
+b=25
 c=1
 root1=(-b+ math.sqrt(b**2-4*a*c))/(2*a)
 root2=(-b- math.sqrt(b**2-4*a*c))/(2*a)
